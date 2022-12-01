@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_oc_payroll_bp_customization_oc_payroll_bp_customization,oc_payroll_bp_customization.oc_payroll_bp_customization,model_oc_payroll_bp_customization_oc_payroll_bp_customization,base.group_user,1,1,1,1
